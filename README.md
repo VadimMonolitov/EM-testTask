@@ -10,7 +10,7 @@ cd EM-testTask
 # 2. Запустить Docker Compose
 docker-compose up --build
 
-# 3. Проверка результата:
+# 3. Проверка результата в браузере или:
 curl http://localhost/
 ```
 
